@@ -1,5 +1,47 @@
+h1 {
+  text-align: center;
+}
+
+#featured-property p {
+  text-align: center;  
+  padding-top: 20px;
+  width: 800px;
+  margin: 10px auto;
+  }
+
+  nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: cyan;
+}
+
+nav {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}
+
+#details div {
+  float: left;
+  text-align: center;
+  width: 25%;
+  background: pink;
+}
+
+#featured-property img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  
 }
+
+
